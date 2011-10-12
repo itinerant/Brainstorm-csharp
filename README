@@ -1,0 +1,5 @@
+Brainstorm is a simple application to keep track of the random thoughts and ideas that come about in life.
+
+------------------------
+
+It is written in C#.  Two versions of the application are in the solution.  One connects to a local SQL Server database, the other connects to a SQLite database.
